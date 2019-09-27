@@ -1,0 +1,44 @@
+#body {
+    background-image: url("https://media.giphy.com/media/l378wcSfS7eXWQgla/giphy.gif");
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#audio-controls {
+    width: 180px;
+}
+
+h2 {
+    font-family: 'Notable', sans-serif;
+}
+
+h1 {
+    font-family: 'Rammetto One', cursive;
+    color: rgb(43, 78, 194);
+    font-size: 80px;
+}
+
+.jumbotron-fluid {
+    background-color: rgb(241, 219, 121);
+    border: 8px solid black;
+    border-image: linear-gradient(45deg, red, orange, yellow, green, blue, purple) 1;
+}
+
+
+#start {
+    background-color: rgb(148, 79, 218);
+}
+
+.btn-info {
+    background-color: rgb(238, 152, 73);
+    border: 2px dotted rgb(110, 109, 109);
+}
+
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 12px;
+}
